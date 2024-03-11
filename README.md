@@ -15,6 +15,9 @@ We cleaned the dataset further and grouped some of the demographic markers furth
  
 Our data analysts then produced a Power BI showing various views that helped visualise the data to spot clear disparities in ethnic and religious groups experience in different UK regions. The first 4 pages focus each on an attack category and shows bar charts firstly based on the UK composition of ethnicity and religion by region, and then the UK composition of ethnicity and religion that experienced that form of attack by region. We wanted to create the demographic composition views based on census data but struggled to get up to date data at the level we required. 
 
+![image](https://github.com/mandg-hackathon/wid/assets/162613403/78845c29-d7fd-4302-bbd8-4603ba5a3995)
+
+
 Some key insights we seen from these visualisations were as follows:
  
 •	Despite making up 3.6% of the UK population, 9.5% of women that experienced private contact abuse were Black, Caribbean or African women.
